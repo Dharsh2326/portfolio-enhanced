@@ -235,13 +235,13 @@ body {
   gap: 20px;
 }
 
-.social-icons a i {
+.social-icons a  {
   color: black;
   font-size: 24px;
   transition: transform 0.3s ease;
 }
 
-.social-icons a:hover i {
+.social-icons a:hover  {
   transform: scale(1.1);
   color: black; 
 }
